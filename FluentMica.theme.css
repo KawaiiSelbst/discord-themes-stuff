@@ -1,0 +1,17 @@
+/**
+ * @name Fluent Mica Background
+ * @author KawaiiSelbst
+ * @version 1.0
+ * @description Mica Extention for Fluent Discord theme by Gibbu
+*/
+
+:root {
+  /* DefaultBlue */
+  --fluent-acrylic-background: none !important;
+  --fluent-acrylic-background-blur: 1 !important;
+  --fluent-acrylic-background-dimness: none !important;
+}
+  
+:root {
+  --background-tertiary: none !important;
+}
