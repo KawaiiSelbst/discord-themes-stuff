@@ -1,6 +1,3 @@
-/* HorizontalServerList Tweaks */
-@import url("https://raw.githubusercontent.com/DiscordStyles/HorizontalServerList/refs/heads/deploy/bottomhsl.css");
-
 :root {
 	--HSL-server-icon-size: 30px; /* Size of the server icons | DEFAULT: 40px */
 	--HSL-server-spacing: 8px; /* Spacing between each server icon | DEFAULT: 10px */
