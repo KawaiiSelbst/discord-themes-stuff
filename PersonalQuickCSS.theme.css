@@ -1,0 +1,33 @@
+/* HorizontalServerList Tweaks */
+@import url("https://raw.githubusercontent.com/DiscordStyles/HorizontalServerList/refs/heads/deploy/bottomhsl.css");
+
+:root {
+	--HSL-server-icon-size: 30px; /* Size of the server icons | DEFAULT: 40px */
+	--HSL-server-spacing: 8px; /* Spacing between each server icon | DEFAULT: 10px */
+	--HSL-server-direction: column; /* Direction of the server list. | OPTIONS: column, column-reverse | DEFAULT: column */
+	--HSL-server-alignment: flex-start; /* Alignment of the server list. | OPTIONS: flex-start, center, flex-end | DEFAULT: flex-start */
+}
+
+/* Read All Notification Button */
+.vc-ranb-button {
+    min-width: 0px !important;
+    min-height: 0px !important;
+    transform: rotate(90deg) translateY(+100%) !important;
+    margin: 15px auto !important;
+    margin-left: 3px !important;
+    display: flex !important;
+} .contents_dd4f85 {
+  white-space: normal !important;
+}
+/* Read All Notification Button */
+/* end HorizontalServerList Tweaks */
+
+/* Fluent Tweaks */
+:root {
+  --fluent-guilds-icon-size: 45px;
+}
+/* end Fluent Tweaks */
+
+.textarea_dde0a8 {
+  height: auto !important;
+}
