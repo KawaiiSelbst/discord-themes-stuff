@@ -8,7 +8,7 @@
 :root {
   /* DefaultBlue */
   --fluent-acrylic-background: none !important;
-  --fluent-acrylic-background-blur: 1 !important;
+  --fluent-acrylic-background-blur: none !important;
   --fluent-acrylic-background-dimness: none !important;
 }
   
